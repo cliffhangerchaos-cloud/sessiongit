@@ -1,0 +1,1 @@
+"""SessionGit test suite"""
